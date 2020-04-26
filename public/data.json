@@ -1,0 +1,298 @@
+{
+  "en": {
+    "social": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alvaro-zambrana-a7994ab7/",
+        "icon": "linkedin"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/AlvaroZ-F",
+        "icon": "github"
+      }
+    ],
+    "about": "I'm a web application developer. I've worked with different programming languages related to web design, as well as a self taught digital artist aside.",
+    "navigation": [
+      {
+        "title": "About",
+        "url": "#about"
+      },
+      {
+        "title": "Education",
+        "url": "#education"
+      },
+      {
+        "title": "Experience",
+        "url": "#experience"
+      },
+      {
+        "title": "Skills",
+        "url": "#skills"
+      },
+      {
+        "title": "Interests",
+        "url": "#interests"
+      },
+      {
+        "title": "Projects",
+        "url": "#projects"
+      }
+    ],
+    "education": [
+      {
+        "school": "IES Francisco Ayala",
+        "course": "Web Applications Development",
+        "dates": [
+          {
+            "start": "September 2016",
+            "end": "Still on going"
+          }
+        ],
+        "average": "Unfinished"
+      }
+    ],
+    "experience": [
+      {
+        "position": "freelancer",
+        "summary": "Worked for individual customers punctuality, fixing software or hardware issues and trouble shooting them.",
+        "dates": [
+          {
+            "start": "Undefined",
+            "end": "Undefined"
+          }
+        ]
+      },
+      {
+        "position": "artist freelancer",
+        "summary": "Worked producing artwork and logo designs for a wide range of clients including small businesses.",
+        "dates": [
+          {
+            "start": "February 2017",
+            "end": "June 2017"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "name": "HTML5",
+        "icon": "html5"
+      },
+      {
+        "name": "CSS",
+        "icon": "css3-alt"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "js-square"
+      },
+      {
+        "name": "Angular",
+        "icon": "angular"
+      },
+      {
+        "name": "NodeJS",
+        "icon": "node-js"
+      },
+      {
+        "name": "SASS",
+        "icon": "sass"
+      },
+      {
+        "name": "WordPress",
+        "icon": "wordpress"
+      },
+      {
+        "name": "NPM",
+        "icon": "npm"
+      },
+      {
+        "name": "VUEJS",
+        "icon": "vuejs"
+      }
+    ],
+    "projects": [
+      {
+        "id": "0",
+        "name": "Comics Database with FireVue",
+        "description": "This project consists of a comic database, using Firebase to save personal accounts and this database, plus functionality developed in Vue Cli.",
+        "preview": "img/firevue.png",
+        "link": "https://github.com/AlvaroZ-F/firevue-app-alvarozf",
+        "prodlink": "https://alvaroz-f.github.io/firevue-app-alvarozf/#/login"
+      },
+      {
+        "id": "1",
+        "name": "Plain Javascript + JQuery + Ajax",
+        "description": "This project consists of a simple page with a variety of Bootstrap tools, using JQuery and Ajax petitions as well.",
+        "preview": "img/JS-JQuery-Bootstrap.png",
+        "link": "https://github.com/AlvaroZ-F/JS-Ex-Pro1",
+        "prodlink": "https://alvaroz-f.github.io/JS-Ex-Pro1/"
+      },
+      {
+        "id": "2",
+        "name": "SASS Customized Bootstrap Framework",
+        "description": "A fully customized bootstrap with SASS framework with many of its aspects reflected in a template website.",
+        "preview": "img/cuatro-project.png",
+        "link": "https://github.com/AlvaroZ-F/Cuatro",
+        "prodlink": "https://alvaroz-f.github.io/Cuatro/"
+      },
+      {
+        "id": "3",
+        "name": "Movie Search Engine using APIs",
+        "description": "This movie search engine uses a API movie database to search through ajax petitions any movie inserted in the search bar.",
+        "preview": "img/movie-finder.png",
+        "link": "https://github.com/AlvaroZ-F/JQMovie-Finder-2020",
+        "prodlink": "https://alvaroz-f.github.io/JQMovie-Finder-2020/"
+      }
+    ]
+  },
+  "es": {
+    "social": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/álvaro-zambrana-a7994ab7/",
+        "icon": "linkedin"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/AlvaroZ-F",
+        "icon": "github"
+      }
+    ],
+    "about": "Soy un desarrollador de aplicaciones web. He trabajado con distintos lenguajes de programacion relacionados con el diseno web, tambien soy un dibujante digital autodidacta.",
+    "navigation": [
+      {
+        "title": "Acerca de mi",
+        "url": "#about"
+      },
+      {
+        "title": "Educacion",
+        "url": "#education"
+      },
+      {
+        "title": "Experiencia",
+        "url": "#experience"
+      },
+      {
+        "title": "Habilidades",
+        "url": "#skills"
+      },
+      {
+        "title": "Intereses",
+        "url": "#interests"
+      },
+      {
+        "title": "Proyectos",
+        "url": "#projects"
+      }
+    ],
+    "education": [
+      {
+        "school": "IES Francisco Ayala",
+        "course": "Desarrollo de Aplicaciones Web",
+        "dates": [
+          {
+            "start": "Septiembre del 2016",
+            "end": "Todavia cursando"
+          }
+        ],
+        "average": "Sin terminar"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Autonomo",
+        "summary": "Trabajos variados realizados a particulares, reparando y lanzando pruebas de errores en sus aparatos electronicos, sea en su software o su hardware.",
+        "dates": [
+          {
+            "start": "Indefinido",
+            "end": "Indefinido"
+          }
+        ]
+      },
+      {
+        "position": "Dibujante Autonomo",
+        "summary": "Trabajos separados que consistieron en comisiones artisticas digitales desarrolladas para particulares y pequenos negocios.",
+        "dates": [
+          {
+            "start": "Febrero 2017",
+            "end": "Junio 2017"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "name": "HTML5",
+        "icon": "html5"
+      },
+      {
+        "name": "CSS",
+        "icon": "css3-alt"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "js-square"
+      },
+      {
+        "name": "Angular",
+        "icon": "angular"
+      },
+      {
+        "name": "NodeJS",
+        "icon": "node-js"
+      },
+      {
+        "name": "SASS",
+        "icon": "sass"
+      },
+      {
+        "name": "WordPress",
+        "icon": "wordpress"
+      },
+      {
+        "name": "NPM",
+        "icon": "npm"
+      },
+      {
+        "name": "VUEJS",
+        "icon": "vuejs"
+      }
+    ],
+    "projects": [
+      {
+        "id": "0",
+        "name": "Base de Datos de Comics con FireVue",
+        "description": "El proyecto consiste en una base de datos con sistema de cuentas y bases de datos vinculadas con Firebase y desarrollada con VueCli.",
+        "preview": "img/firevue.png",
+        "link": "https://github.com/AlvaroZ-F/firevue-app-alvarozf",
+        "prod-link": "https://alvaroz-f.github.io/firevue-app-alvarozf/#/login"
+      },
+      {
+        "id": "1",
+        "name": "Javascript Plano + JQuery + Peticiones Ajax",
+        "description": "Este projecto esta desarrollado con diferentes herramientas de Bootstrap, usando JQuery y peticiones Ajax tambien en su funcionamiento.",
+        "preview": "img/JS-JQuery-Bootstrap.png",
+        "link": "https://github.com/AlvaroZ-F/JS-Ex-Pro1",
+        "prod-link": "https://alvaroz-f.github.io/JS-Ex-Pro1/"
+      },
+      {
+        "id": "2",
+        "name": "Framework de SASS y Bootstrap completamente customizado",
+        "description": "Este es un framework SASS completamente customizado personalmente, cuyas caracteristicas estan reflejadas en esta pagina plantilla.",
+        "preview": "img/cuatro-project.png",
+        "link": "https://github.com/AlvaroZ-F/Cuatro",
+        "prod-link": "https://alvaroz-f.github.io/Cuatro/"
+      },
+      {
+        "id": "3",
+        "name": "Buscador de peliculas usando una API",
+        "description": "Este es un buscador de peliculas usando una API de una base de datos de peliculas, mostrando los resultados de cualquier busqueda realizada mediante peticiones ajax.",
+        "preview": "img/movie-finder.png",
+        "link": "https://github.com/AlvaroZ-F/JQMovie-Finder-2020",
+        "prod-link": "https://alvaroz-f.github.io/JQMovie-Finder-2020/"
+      }
+    ]
+  }
+}
