@@ -11,12 +11,11 @@
 				<div class="resume-content">
 					<h3 class="mb-0">{{ education.school }}</h3>
 					<div class="subheading mb-3">{{ education.course }}</div>
-					<p v-if="language == 'en'">Average Score: {{ education.average }}</p>
-					<p v-if="language == 'es'">Nota Media: {{ education.average }}</p>
+					<p class="mb-0">{{ education.description }}</p>
 				</div>
 				<div class="resume-date text-md-right">
 					<span class="text-primary" v-for="(date, index) in education.dates" :key="index">
-						{{ date.start }} - {{ date.end }}
+						{{ date.end }}
 					</span>
 				</div>
 
