@@ -45,11 +45,10 @@
         "course": "Web Applications Development",
         "dates": [
           {
-            "start": "September 2016",
-            "end": "Still on going"
+            "end": "Finished by June 2021"
           }
         ],
-        "average": "Unfinished"
+        "description": "During the course, I have learnt how to develop and implement web applications through the usage of specific technologies and programming languages."
       }
     ],
     "experience": [
@@ -68,8 +67,8 @@
         "summary": "Worked producing artwork and logo designs for a wide range of clients including small businesses.",
         "dates": [
           {
-            "start": "February 2017",
-            "end": "June 2017"
+            "start": "February 2013",
+            "end": "Ongoing"
           }
         ]
       }
@@ -110,6 +109,10 @@
       {
         "name": "VUEJS",
         "icon": "vuejs"
+      },
+      {
+        "name": "Python",
+        "icon": "python"
       }
     ],
     "projects": [
@@ -193,11 +196,10 @@
         "course": "Desarrollo de Aplicaciones Web",
         "dates": [
           {
-            "start": "Septiembre del 2016",
-            "end": "Todavia cursando"
+            "end": "Terminado a Junio del 2021"
           }
         ],
-        "average": "Sin terminar"
+        "description": "Durante este curso, he aprendido a desarrollar e implementar aplicaciones web a traves del uso de tecnologias especificas y lenguajes de programacion"
       }
     ],
     "experience": [
@@ -216,8 +218,8 @@
         "summary": "Trabajos separados que consistieron en comisiones artisticas digitales desarrolladas para particulares y pequenos negocios.",
         "dates": [
           {
-            "start": "Febrero 2017",
-            "end": "Junio 2017"
+            "start": "Febrero 2013",
+            "end": "Hasta la fecha"
           }
         ]
       }
@@ -258,6 +260,10 @@
       {
         "name": "VUEJS",
         "icon": "vuejs"
+      },
+      {
+        "name": "Python",
+        "icon": "python"
       }
     ],
     "projects": [
@@ -267,7 +273,7 @@
         "description": "El proyecto consiste en una base de datos con sistema de cuentas y bases de datos vinculadas con Firebase y desarrollada con VueCli.",
         "preview": "img/firevue.png",
         "link": "https://github.com/AlvaroZ-F/firevue-app-alvarozf",
-        "prod-link": "https://alvaroz-f.github.io/firevue-app-alvarozf/#/login"
+        "prodlink": "https://alvaroz-f.github.io/firevue-app-alvarozf/#/login"
       },
       {
         "id": "1",
@@ -275,7 +281,7 @@
         "description": "Este projecto esta desarrollado con diferentes herramientas de Bootstrap, usando JQuery y peticiones Ajax tambien en su funcionamiento.",
         "preview": "img/JS-JQuery-Bootstrap.png",
         "link": "https://github.com/AlvaroZ-F/JS-Ex-Pro1",
-        "prod-link": "https://alvaroz-f.github.io/JS-Ex-Pro1/"
+        "prodlink": "https://alvaroz-f.github.io/JS-Ex-Pro1/"
       },
       {
         "id": "2",
@@ -283,7 +289,7 @@
         "description": "Este es un framework SASS completamente customizado personalmente, cuyas caracteristicas estan reflejadas en esta pagina plantilla.",
         "preview": "img/cuatro-project.png",
         "link": "https://github.com/AlvaroZ-F/Cuatro",
-        "prod-link": "https://alvaroz-f.github.io/Cuatro/"
+        "prodlink": "https://alvaroz-f.github.io/Cuatro/"
       },
       {
         "id": "3",
@@ -291,7 +297,7 @@
         "description": "Este es un buscador de peliculas usando una API de una base de datos de peliculas, mostrando los resultados de cualquier busqueda realizada mediante peticiones ajax.",
         "preview": "img/movie-finder.png",
         "link": "https://github.com/AlvaroZ-F/JQMovie-Finder-2020",
-        "prod-link": "https://alvaroz-f.github.io/JQMovie-Finder-2020/"
+        "prodlink": "https://alvaroz-f.github.io/JQMovie-Finder-2020/"
       }
     ]
   }
